@@ -15,6 +15,9 @@ git clone https://github.com/ahmed4mohamed4/Linear-Algebra.git
 cd Linear-Algebra
 ```
 ```bash
+python -m venv .venv
+```
+```bash
 pip install -r requirements.txt
 ```
 ```bash
