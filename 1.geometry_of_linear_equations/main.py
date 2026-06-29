@@ -30,3 +30,11 @@ matrix_2 = np.array ([[5, 6],
 
 result = matrix_1 @ matrix_2
 print (f"Result of matrix multiplication:\n {result}")
+
+# Output:
+# (x, y) = (1.0, 2.0)
+# b = [0.0, 3.0]
+# ##################################################
+# Result of matrix multiplication:
+#  [[19 22]
+#  [43 50]]
