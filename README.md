@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>This repo is still under development.</h1>
-</div>
-
 # Linear Algebra
 
 This repository for my learning journey in Linear Algebra from the MIT OpenCourseWare course "Linear Algebra" by Prof. Gilbert Strang [[Link](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=REJ8Rad7w8AYLGFK)].
